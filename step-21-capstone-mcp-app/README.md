@@ -186,6 +186,7 @@ Submit through your **fork**, following [SUBMITTING.md](../SUBMITTING.md). ⛔ D
 - [ ] Screenshots are committed in this step's folder as `claude.png` and `chatgpt.png` (add more files if you need them, and crop out anything private), showing at least three different screens chosen from intent in **Claude** and **ChatGPT**
 - [ ] NOTES.md starts with this step's live `/mcp` URL
 - [ ] A demo video of up to three minutes is recorded, and its link is in NOTES.md
+- [ ] **Required reading:** you read [Sell the work, not the software](https://agentfactory.panaversity.org/from-skills-to-income/sell-the-work-not-the-software/) and the three pages after it, and `NOTES.md` says in a short paragraph which service you would sell first, to whom, and at what price per result
 - [ ] Tagged `step-21-done` and pushed (in GitHub Desktop: **History**, right-click the commit, **Create Tag…**, then **Push origin**)
 - [ ] Submitted once through the [form](https://forms.gle/u1m8F7UjDJxk3J9M6), or your response there updated: fork URL, the last step you completed and its live server URL (see [SUBMITTING.md](../SUBMITTING.md#8-submit-your-work))
 

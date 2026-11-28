@@ -52,6 +52,20 @@ If you took [Put AI Workers to Work: The CCAO-F Bootcamp](https://github.com/pan
 | Diagnose a failed run | Logs, traces and audit records | 16, 17 |
 | Manage an AI Worker | The tools and data it works through | every step |
 
+## Required entrepreneurial reading
+
+Every Panaversity bootcamp asks you to read **[Sell the work, not the software](https://agentfactory.panaversity.org/from-skills-to-income/sell-the-work-not-the-software/)**, four short pages in *The AI Agent Factory*, before you graduate. It explains AI-native services firms, which do a business service with AI Workers and sell the finished work instead of software. It shows how they are changing whole industries, and how graduates of the three bootcamps can start one: which service to pick, how to price the result, a 90-day plan, a worked example of the numbers and the risks.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/diagram-maturity-model-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/diagram-maturity-model-light.png">
+  <img src="assets/diagram-maturity-model-light.png" alt="The AI-Native Services Maturity Model as five rising steps, each a business you can run while you build the next. Level 1, AI-assisted professional: one person doing tasks faster (CCAO-F Bootcamp, first half). Level 2, AI-assisted service firm: a team delivering existing services faster (CCAO-F Bootcamp, second half). Level 3, AI-native service firm: Digital FTEs do the work and people check and sign (CCDV-F Part I). Level 4, self-improving service firm: evaluated feedback improves the workers (CCDV-F Part II). Level 5, AI-native services platform: one standard service for many clients and markets (all three bootcamps, plus real clients). Level 3 highlighted: where this bootcamp takes you." width="100%">
+</picture>
+
+The reading's maturity model shows the five stages of an AI-native services firm. The highlighted step is where this bootcamp takes you.
+
+Read it once near the start, to see where this bootcamp can lead, and again before the capstone. The Step 21 capstone's submission checklist asks you to write, in `NOTES.md`, which service you would sell first, to whom, and at what price per result.
+
 ## Your client: Stockroom
 
 Every step in this bootcamp is client work, so every step has a business reason. Your client is **Stockroom**, a fictional startup that sells AI-native back-office software to small distributors and retailers, and it has hired you as its Forward Deployed Engineer. Stockroom's customers are companies, each with its own staff and data, which is why everything you build serves many companies at once and keeps them apart.
